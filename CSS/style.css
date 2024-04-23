@@ -1,0 +1,41 @@
+header{
+ text-align: center;
+ background:#e6e6e6;
+}
+h1{
+    text-align: center;
+    margin: 0px;
+    color:#005677;
+    background: #c4c4c4;
+}
+ audio {
+    width: 100%;
+    
+ }
+ /* tope para la lista */
+ dd{
+    margin-left:80px;
+ }
+h2.datos{
+    color: #005677;
+    background: #c4c4c4;
+}
+h2.formacion{
+    color: #005677;
+    background: #c4c4c4;
+}
+h2.experiencia{
+    color: #005677;
+    background: #c4c4c4;
+}
+footer{
+    text-align: center;
+    color: rgb(240, 244, 248);
+    background: #005677;
+}
+footer img{
+height: auto; width: 15px;
+}
+iframe{
+width: 100% ;
+}
